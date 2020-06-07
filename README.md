@@ -9,3 +9,5 @@
 * [Реляційна схема](docs/relational_schema.md)
 
 * [DDL](src/ddl.sql)
+
+* [DML](src/dml.sql)
